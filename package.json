@@ -1,0 +1,17 @@
+{
+  "name": "qualitymap",
+  "version": "1.0.0",
+  "description": "Qualitymap Challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypresss open"
+  },
+  "author": "Alexandre",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.7.0"
+  },
+  "devDependencies": {
+    "cypress-xpath": "^2.0.1"
+  }
+}
